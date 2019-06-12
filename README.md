@@ -1,4 +1,4 @@
-# lab3
+# lab3 FAQ
 
 Q: How do we get our bike light into a known state? / Our code doesn't work unless we explicitly pulse "reset" high for one cycle. Is this to be expected?
 
